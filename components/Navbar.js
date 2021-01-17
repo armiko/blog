@@ -21,8 +21,8 @@ function Navbar() {
     <>
       <div id="navbar" className="fixed z-10 flex-row w-full align-middle md:hidden lg:hidden xl:hidden ">
         <div className="flex items-center justify-between px-6 h-14 bg-secondary">
-          <a href="https://github.com/nekonako">
-            <img src="https://avatars.githubusercontent.com/u/46141275" alt="nekonako" width="32px" className="border-2 rounded-full text-accent border-current"/>
+          <a href="https://github.com/armiko">
+            <img src="https://avatars2.githubusercontent.com/u/33947524" alt="armiko" width="32px" className="border-2 rounded-full text-accent border-current"/>
           </a>
           <span className="text-2xl font-bold"><Link href="/" >Nekonako</Link></span>
           <a onClick={openNav} className="md:hidden" data-target="navMenu">
