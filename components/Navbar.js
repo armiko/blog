@@ -24,7 +24,7 @@ function Navbar() {
           <a href="https://github.com/armiko">
             <img src="https://avatars2.githubusercontent.com/u/33947524" alt="armiko" width="32px" className="border-2 rounded-full text-accent border-current"/>
           </a>
-          <span className="text-2xl font-bold"><Link href="/" >Nekonako</Link></span>
+          <span className="text-2xl font-bold"><Link href="/" >Armiko</Link></span>
           <a onClick={openNav} className="md:hidden" data-target="navMenu">
             <i className="font-bold"><FontAwesomeIcon icon={faBars}/></i>
           </a>
