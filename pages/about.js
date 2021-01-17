@@ -34,7 +34,7 @@ function About() {
   return (
     <>
       <Head>
-        <title>About | Nekonako</title>
+        <title>About | Armiko</title>
         <meta data-hid="og:image" property="og:image" content="/assets/nako.jpg"/>
         <meta property='og:image' content="/assets/nako.jpg" />
       </Head>
@@ -44,13 +44,13 @@ function About() {
         <main className="flex-1">
           <div className="min-h-screen px-4 py-1 mt-20 md:m-8">
             <div className="text-2xl font-bold"> <span className="text-accent"># </span>
-              Hallo Semuanya</div> Nama saya Galih Wisnuaji.
+              Hallo Semuanya</div> Nama saya Armiko SMD.
             <br/>
-            Cuma seorang penikmat kopi dan drama.
+            Just a Weeb that interest in Design, Linux, Website.
             <div className="pt-8 text-2xl font-bold">
               <span className="text-accent"># </span>
               Kontak</div>
-            <a href="mailto:code.yuune@gmail.com" rel="external noopener">ne.nekonako@gmail.com</a>
+            <a href="mailto:contact@armiko.my.id" rel="external noopener">contact@armiko.my.id</a>
 
             <div className='mt-8 footer'></div>
 
