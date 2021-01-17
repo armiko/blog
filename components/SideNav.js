@@ -17,10 +17,10 @@ function SideNav(){
           </div>
           <div className='w-full p-0 m-0'>
             <div className="block pt-6 pb-8 m-1 text-center" >
-              <img src="https://avatars.githubusercontent.com/u/46141275" alt="nekonako" width="150px" className="relative inline-block rounded-full text-accent border-current" style={{borderWidth:"8px"}}/>
+              <img src="https://avatars2.githubusercontent.com/u/33947524" alt="armiko" width="150px" className="relative inline-block rounded-full text-accent border-current" style={{borderWidth:"8px"}}/>
             </div>
-            <div className="text-3xl font-bold text-center latin">Galih wisnuaji</div>
-            <div className="font-light text-center latin">Penikmat kopi dan drama</div>
+            <div className="text-3xl font-bold text-center latin">Armiko SMD</div>
+            <div className="font-light text-center latin">Just a Weeb that interest in Design, Linux, Website</div>
 
             <ul className="pt-8 pb-4 text-center ">
               <li className="p-2">
