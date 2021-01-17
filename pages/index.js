@@ -20,10 +20,10 @@ function IndexPage(props){
       <>
          <Head>
             <title>Home | {siteData.name}</title>
-            <meta name='apple-mobile-web-app-title' content='Nekonako' />
-            <meta name='description' content='Nako Personal Website' />
-            <meta property='og:title' content='nekonako' />
-            <meta property='og:description' content='Nako personal website' />
+            <meta name='apple-mobile-web-app-title' content='Armiko' />
+            <meta name='description' content='Armiko Personal Website' />
+            <meta property='og:title' content='Armiko' />
+            <meta property='og:description' content='Armiko personal website' />
             <meta data-hid="og:image" property="og:image" content="/assets/nako.jpg"/>
             <meta property='og:image' content="/assets/nako.jpg" />
          </Head>
