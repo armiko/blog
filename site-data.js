@@ -1,13 +1,13 @@
 module.exports = {
-  name : 'Nekonako',
+  name : 'Armiko',
   baseUrl : '/',
   logo : '/assets/icon.png',
   description : `Nako Personal Website.`,
   contact : {
-    facebook : 'https://facebook.com/galihx11',
-    telegram : 'https://t.me/nekonakooo',
-    twitter : 'https://twitter.com/@Galih_wisnuA',
-    github : 'https://github.com/nekonako',
-    email : 'mailto:ne.nekonako@gmail.com',
+    facebook : 'https://facebook.com/armiko.id',
+    telegram : 'https://t.me/armikosmd',
+    twitter : 'https://twitter.com/@sanpoi_dono',
+    github : 'https://github.com/armiko',
+    email : 'mailto:contact@armiko.my.id',
   },
 }
