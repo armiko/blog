@@ -9,7 +9,7 @@ function Footer () {
                <ToggleTheme />
             </div>
             <div className="md:pt-4" ></div>
-            © 2021 <a href="https://github.com/nekonako" target="blank" className="font-bold text-accent">Nako</a><br/>
+            © 2021 <a href="https://github.com/armiko" target="blank" className="font-bold text-accent">Armiko</a><br/>
             Powered by <a href="https://gatsbyjs.com" className="font-bold text-accent">NextJS </a> |
             Source Code <a href="https://github.com/nekonako/nekonako.me" className="font-bold text-accent">Github</a>
          </div>
