@@ -46,11 +46,11 @@ function PostPage(props){
               ))}</div>
               <div className='mt-8 mb-4 text-xl font-bold'>Penulis</div>
               <div className='flex flex-row'>
-                  <img src="https://avatars.githubusercontent.com/u/46141275" width="70px"
-                  className="relative rounded-full text-accent border-current" style={{borderWidth:"3px"}} alt="nekonako"/>
+                  <img src="https://avatars2.githubusercontent.com/u/33947524" width="70px"
+                  className="relative rounded-full text-accent border-current" style={{borderWidth:"3px"}} alt="armiko"/>
                 <div className='flex flex-col pt-2 pl-4'>
-                  <div className='text-lg font-bold'>Galih Wisnuaji</div>
-                  Penikmat kopi dan drama
+                  <div className='text-lg font-bold'>Armiko SMD</div>
+                  Just a Weeb that interest in Design, Linux, Website
                 </div>
               </div>
             </div>
